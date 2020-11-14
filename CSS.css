@@ -1,0 +1,71 @@
+﻿body {
+    width:1280px;
+    margin:0px;
+    padding:0px;
+}
+.header{
+    color:orange;
+}
+.suntech {
+    width: 170px;
+    position: relative;
+    left: 150px; 
+}
+h1 {
+    position: absolute;
+    left: 350px;
+    top:40px;
+    font-size: 35px;
+}
+.nav {
+    background-color: forestgreen;
+    width: 1280px;
+    height:45px;
+}
+ul {
+    list-style: none;
+    float: left;
+}
+li {
+    float: left;
+    text-align: center;
+    padding:0px 20px;
+}
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 30px;
+}
+.middle {
+    width:1280px;
+    float: left;
+    padding:20px;
+    text-align:justify;
+}
+.middle-img {
+    width: 300px;
+    float: left;
+}
+.text{
+    width:720px;
+    float:left;
+    margin:10px;
+}
+.QC {
+    width: 200px;
+    float: left;
+    margin:2px;
+}
+.text-last {
+    width: 720px;
+}
+.footer {
+    background-color: green;
+    color: white;
+    text-align: center;
+    height: 50px;
+    clear: left;
+    font-size: 20px;
+    line-height:50px;
+}
